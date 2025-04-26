@@ -7,7 +7,7 @@ Built with ❤️ using **OpenWeatherMap API** and modern JavaScript!
 
 ## 📸 Demo
 
-👉 **Live Demo:** [Click Here to View](https://your-app-url.netlify.app)
+👉 **Live Demo:** [Click Here to View](https://bd-weather-app-test.netlify.app/)
 
 ---
 
