@@ -1,0 +1,45 @@
+body {
+    font-family: 'Poppins', sans-serif;
+    background-color: #e6f7ff;
+    text-align: center;
+    padding: 30px;
+}
+
+h1 {
+    color: #333;
+}
+
+input,
+button {
+    padding: 10px;
+    font-size: 16px;
+    margin: 10px 5px;
+    border-radius: 8px;
+    border: 1px solid #ccc;
+}
+
+button {
+    background-color: #00aaff;
+    color: white;
+    cursor: pointer;
+}
+
+button:hover {
+    background-color: #0099dd;
+}
+
+#weatherCard {
+    background: white;
+    border-radius: 15px;
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.2);
+    display: inline-block;
+    padding: 20px;
+    margin-top: 20px;
+    min-width: 250px;
+}
+
+.forecast-day {
+    margin: 10px 0;
+    padding: 10px;
+    border-top: 1px solid #ddd;
+}
